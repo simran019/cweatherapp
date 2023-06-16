@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "c62weatherapp",
+    "slug": "snack-a6e16a0e-483d-41ae-81f4-b4163789cf9e",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.simran0019.snacka6e16a0e483d41ae81f4b4163789cf9e"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4d11cac3-f000-436c-8a00-d646b1696c2a"
+      }
+    }
+  }
+}
